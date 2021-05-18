@@ -1,0 +1,105 @@
+{
+	"Truth": [
+		{
+			"index": 0,
+			"truth": "Is there something that you've dreamed of doing for a long time? Why haven't you done it?"
+		},
+		{
+			"index": 1,
+			"truth": "Would you want to be famous? In what way?"
+		},
+		{
+			"index": 2,
+			"truth": "What would be a perfect day for you?"
+		},
+        {
+			"index": 3,
+			"truth": "For what in your life do you feel most grateful?"
+		},
+        {
+			"index": 4,
+			"truth": "What is your most treasured memory?"
+		},
+        {
+			"index": 5,
+			"truth": "What would you do if you switched genders for a day?"
+		},
+        {
+			"index": 6,
+			"truth": "How close is your family? Do you feel your childhood was happier than most other people's?"
+		},
+		{
+			"index": 7,
+			"truth": "If you could wake up tomorrow having gained any one quality or ability, what would it be?"
+		},
+		{
+			"index": 8,
+			"truth": "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?"
+		},
+        {
+			"index": 9,
+			"truth": "Who's your celebrity crush?"
+		},
+        {
+			"index": 10,
+			"truth": "Would you want to be famous? In what way?"
+		},
+        {
+			"index": 11,
+			"truth": "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?"
+		},
+        {
+			"index": 12,
+			"truth": "For what in your life do you feel most grateful?"
+		},
+		{
+			"index": 13,
+			"truth": "Do you currently have a crush on anyone?"
+		},
+		{
+			"index": 14,
+			"truth": "Do you currently have a crush on anyone?"
+		},
+        {
+			"index": 15,
+			"truth": "For what in your life do you feel most grateful?"
+		},
+        {
+			"index": 16,
+			"truth": "What's the last thing you searched for on your phone?"
+		},
+        {
+			"index": 17,
+			"truth": "When did you last cry in front of another person? By yourself?"
+		},
+        {
+			"index": 18,
+			"truth": "Tell an embarrassing tale about yourself."
+		},
+		{
+			"index": 19,
+			"truth": "What do you value most in a friendship?"
+		},
+		{
+			"index": 20,
+			"truth": "If you could change anything about the way you were raised, what would it be?"
+		},
+        {
+			"index": 21,
+			"truth": "Do you currently have a crush on anyone"
+		},
+        {
+			"index": 22,
+			"truth": "What's the last thing you searched for on your phone?"
+		},
+        {
+			"index": 23,
+			"truth": "What do you value most in a friendship?"
+		}
+
+	],
+	"Dare": {
+		"index": 0,
+		"truth": "Is there something that you've dreamed of doing for a long time? Why haven't you done it?"
+	}
+}
